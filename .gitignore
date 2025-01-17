@@ -1,0 +1,8 @@
+dist/*
+build
+env
+it6720.egg-info
+*.so
+*.c
+*.pyd
+!dist/*.whl
