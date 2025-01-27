@@ -27,7 +27,7 @@ For instance, One IT6720 can subsitute previous 60V*1.6A/32/*3A/20V*5A 3 kinds o
 
 ## package install on-line
 ```shell
-pip install jw8507
+pip install it6720
 ```
 
 ## package install off-line
